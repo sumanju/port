@@ -1,0 +1,14 @@
+.section {
+    width: 100vw;
+    background-color: #f8f3f7;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-container {
+    padding: 0 12vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1000px;
+}
